@@ -3,7 +3,7 @@ ARTH VIDHI CAPITAL WEBSITE
 
 Files:
 - index.html : responsive one-page website
-- assets/logo.svg : custom scalable logo artwork
+- logo.png.png: custom scalable logo artwork
 
 PREVIEW
 Open index.html in a browser. Keep the assets folder next to index.html.
